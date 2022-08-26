@@ -7,18 +7,32 @@ html {
 
 h1 {
   font-family: 'Aldrich', sans-serif;
-  font-size: 72px;
+  font-size: 64px;
   margin: 0;
   padding: 20px 0;
   text-align: center;
-  letter-spacing: 1px;
   }
 
 body {
-  width: 600px;
+  width: 1024px;
   margin: 0 auto;
   padding: 0 20px 20px 20px;
   }
+
+ul {
+  text-align: center;
+  margin: 0;
+}
+
+li {
+  display: inline;
+  font-family: 'Aldrich', sans-serif;
+  font-size: 40px;
+  margin: 0;
+  padding: 0px 20px;
+  text-align: center;
+  letter-spacing: 1px;
+}
 
 img {
   display: block;
